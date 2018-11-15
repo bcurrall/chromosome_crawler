@@ -1,0 +1,17 @@
+# ignore all image files
+*.img
+*.jpg
+*.gif
+*.png
+
+# ignore alighnment files
+*.zip
+*.nhd
+*.nhi
+*.nhr
+*.nin
+*.nnd
+*.nni
+*.nsd
+*.nsi
+*.nsq
